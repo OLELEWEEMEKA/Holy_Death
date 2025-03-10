@@ -10,3 +10,6 @@ img{
     width: 500px;
     margin-left: 20px;
 }
+li, p{
+    font-size: large;
+}
